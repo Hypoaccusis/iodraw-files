@@ -19,38 +19,8 @@
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="425" y="250" width="20" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-15" value="&lt;span data-path-to-node=&quot;6,0,1,0,0,1&quot;&gt;颈面部原发感染区的红、肿、热、痛完全消退，创口或引流区肉芽组织健康，且无化脓性渗出&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="533.95" y="210" width="300" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-24" value="&lt;span data-path-to-node=&quot;6,1,1,0,2,0,0,1&quot;&gt;WBC 4.0-10.0×10^9/L&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="340" width="146.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-25" value="NEUT%&amp;nbsp; 40%-75%&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="380" width="146.05" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-26" value="无核左移&amp;nbsp;&amp;nbsp;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,1&quot;&gt;外周血中未成熟的杆状核中性粒细胞比例&amp;lt;5%&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,2&quot;&gt;&lt;span class=&quot;citation-689 citation-end-689&quot;&gt;&lt;sup data-turn-source-index=&quot;38&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="643.95" y="420" width="326.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-27" value="PCT &amp;lt;0.05 ng/mL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="460" width="106.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-28" value="&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,1&quot;&gt;CRP &amp;lt;5 mg/L&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,2&quot;&gt;&lt;span class=&quot;citation-686 citation-end-686&quot;&gt;&lt;sup data-turn-source-index=&quot;41&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="500" width="106.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-32" value="FBG &amp;lt;8.88 mmol/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="550" width="146.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-33" value="餐后2小时或随机血糖 7.8-10.0 mmol/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="590" width="216.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-34" value="HbA1c &amp;lt;8.0%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="630" width="106.05" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-36" value="&lt;span data-path-to-node=&quot;6,2,1,0,0,1&quot;&gt;病灶周边间隙的异常气穴与液性暗区已完全吸收&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="539.74" y="690" width="280.52" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-38" value="CT 骨窗需显示受累骨质边缘清晰，并出现明显的反应性骨硬化带" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="539.74" y="760" width="360.26" height="30" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-39" value="外科干预与围术期管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="925" width="150" height="60" as="geometry" />
