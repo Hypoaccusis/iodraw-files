@@ -190,7 +190,7 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-54" value="证据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="960" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-55" value="高危" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-55" value="特点" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="1045" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-56" value="处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
