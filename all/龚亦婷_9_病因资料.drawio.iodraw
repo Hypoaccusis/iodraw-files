@@ -37,6 +37,9 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-4" value="机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="90" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-6" value="机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="-30" width="90" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
