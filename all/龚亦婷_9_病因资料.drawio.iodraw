@@ -29,10 +29,10 @@
           <mxGeometry x="275" y="277.5" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-2" value="&lt;span data-path-to-node=&quot;2,1&quot;&gt;糖尿病酮症酸中毒&lt;/span&gt;&lt;span data-path-to-node=&quot;2,2&quot;&gt;&lt;span class=&quot;citation-725 citation-end-725&quot;&gt;&lt;sup data-turn-source-index=&quot;2&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="610" width="150" height="60" as="geometry" />
+          <mxGeometry x="275" y="650" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-3" value="感染向下侵犯心包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="770" width="150" height="60" as="geometry" />
+          <mxGeometry x="280" y="840" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-4" value="机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="-40" width="90" height="40" as="geometry" />
