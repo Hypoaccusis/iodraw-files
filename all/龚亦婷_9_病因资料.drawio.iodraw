@@ -202,7 +202,7 @@
             <mxPoint x="600" y="980" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-58" value="&lt;div&gt;患者CT报告明确提到“部分区域见散在气体影”，这是产气菌感染的直接影像学证据。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-58" value="&lt;div&gt;患者CT报告明确提到“部分区域见散在气体影”，这是产气菌感染的直接影像学证据。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="950" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
