@@ -161,31 +161,31 @@
           <mxGeometry x="425" y="645" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-40" value="路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="810" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="807.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-41" value="警示症状" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="445" y="895" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="892.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="829.5" as="sourcePoint" />
-            <mxPoint x="595" y="830" as="targetPoint" />
+            <mxPoint x="540" y="827" as="sourcePoint" />
+            <mxPoint x="600" y="827.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-43" value="&lt;div&gt;感染沿颈部深筋膜间隙向下蔓延，可引起下行性坏死性纵隔炎，并侵犯心包，导致化脓性心包炎和心脏压塞。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="800" width="210" height="60" as="geometry" />
+          <mxGeometry x="610" y="797.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-44" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="535" y="914.5" as="sourcePoint" />
-            <mxPoint x="595" y="914.75" as="targetPoint" />
+            <mxPoint x="540" y="912" as="sourcePoint" />
+            <mxPoint x="600" y="912.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-45" value="&lt;div&gt;需密切观察有无胸闷、胸痛、呼吸困难加重。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="885" width="175" height="60" as="geometry" />
+          <mxGeometry x="610" y="882.5" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="425" y="825" width="20" height="90" as="geometry" />
+          <mxGeometry x="430" y="825" width="20" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
