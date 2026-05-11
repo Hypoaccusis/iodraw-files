@@ -61,11 +61,14 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-11" value="&lt;div&gt;&lt;div&gt;CT示气道受压+张口受限，属极高危。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="klu0zFs7DH6lCh9ZzUlI-13">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="550" y="149.5" as="sourcePoint" />
             <mxPoint x="610" y="150" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-13" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="550" y="120" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
