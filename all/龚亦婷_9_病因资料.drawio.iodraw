@@ -19,9 +19,6 @@
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="425" y="250" width="20" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-26" value="无核左移&amp;nbsp;&amp;nbsp;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,1&quot;&gt;外周血中未成熟的杆状核中性粒细胞比例&amp;lt;5%&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,2&quot;&gt;&lt;span class=&quot;citation-689 citation-end-689&quot;&gt;&lt;sup data-turn-source-index=&quot;38&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="643.95" y="420" width="326.05" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-39" value="外科干预与围术期管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="925" width="150" height="60" as="geometry" />
         </mxCell>
