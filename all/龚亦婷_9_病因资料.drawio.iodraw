@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-1" value="可能的严重的并发症" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="90" y="482.5" width="140" height="60" as="geometry" />
+          <mxGeometry x="90" y="532.5" width="140" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-2" value="&lt;span data-path-to-node=&quot;2,1&quot;&gt;呼吸困难与气道压迫&lt;/span&gt;&lt;span data-path-to-node=&quot;2,2&quot;&gt;&lt;span class=&quot;citation-725 citation-end-725&quot;&gt;&lt;sup data-turn-source-index=&quot;2&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="275" y="35" width="150" height="60" as="geometry" />
