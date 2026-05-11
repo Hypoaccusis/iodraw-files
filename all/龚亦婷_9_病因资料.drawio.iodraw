@@ -163,7 +163,7 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-40" value="路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="810" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-41" value="临床意义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-41" value="警示症状" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="445" y="895" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
