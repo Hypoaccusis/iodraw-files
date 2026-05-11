@@ -1,11 +1,152 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36 Edg/148.0.0.0" version="24.7.17">
-  <diagram name="第 1 页" id="SfX77Re_6bfsDzVWyuPP">
-    <mxGraphModel dx="1213" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="第 1 页" id="-2Oi5qj-6wjXdeoJp8ay">
+    <mxGraphModel dx="1213" dy="1862" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="i7cKH1NkKXCgYQHazg6y-1" value="﻿[{&quot;data&quot;:{&quot;id&quot;:&quot;difvki0qdt40&quot;,&quot;created&quot;:1778505462137,&quot;text&quot;:&quot;可能的严重的并发症&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difvnpdnmhk0&quot;,&quot;created&quot;:1778505713248,&quot;text&quot;:&quot;呼吸困难与气道压迫&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwwsyhsyo0&quot;,&quot;created&quot;:1778509247426,&quot;text&quot;:&quot;机制&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxiru25co0&quot;,&quot;created&quot;:1778510968993,&quot;text&quot;:&quot;间隙感染致组织肿胀，压迫气道致狭窄/梗阻。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwz8l4ykg0&quot;,&quot;created&quot;:1778509438175,&quot;text&quot;:&quot;高危&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxiu0d8g80&quot;,&quot;created&quot;:1778510973728,&quot;text&quot;:&quot;CT示气道受压+张口受限，属极高危。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwzbpon4w0&quot;,&quot;created&quot;:1778509444981,&quot;text&quot;:&quot;处理&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxj3yiqrs0&quot;,&quot;created&quot;:1778510995384,&quot;text&quot;:&quot;立即备气管插管。&quot;},&quot;children&quot;:[]}]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difvtxdngg80&quot;,&quot;created&quot;:1778506200847,&quot;text&quot;:&quot;颅内感染&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwwsyhsyo0&quot;,&quot;created&quot;:1778509247426,&quot;text&quot;:&quot;机制&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxjcm28ds0&quot;,&quot;created&quot;:1778511014222,&quot;text&quot;:&quot;面静脉无瓣膜，“危险三角区”感染逆流颅内。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwz8l4ykg0&quot;,&quot;created&quot;:1778509438175,&quot;text&quot;:&quot;高危&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxjku7sq00&quot;,&quot;created&quot;:1778511032129,&quot;text&quot;:&quot;感染位于危险三角区延伸区。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwzbpon4w0&quot;,&quot;created&quot;:1778509444981,&quot;text&quot;:&quot;处理&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxjn704pk0&quot;,&quot;created&quot;:1778511037256,&quot;text&quot;:&quot;密切观察头痛、呕吐、视力异常&quot;},&quot;children&quot;:[]}]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difvudnkgu00&quot;,&quot;created&quot;:1778506236275,&quot;text&quot;:&quot;脓毒症&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwzrditbc0&quot;,&quot;created&quot;:1778509479074,&quot;text&quot;:&quot;诊断依据&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwzw8ls480&quot;,&quot;created&quot;:1778509489660,&quot;text&quot;:&quot;患者PCT高达3.4 ng/ml，远超脓毒症诊断阈值(≥2.0 ng/ml)，结合高热、心率快等表现，脓毒症诊断明确。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difx07ttt5s0&quot;,&quot;created&quot;:1778509514888,&quot;text&quot;:&quot;临床意义&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difx0mdmr1s0&quot;,&quot;created&quot;:1778509546561,&quot;text&quot;:&quot;表明患者全身炎症反应强烈，随时可能进展为严重脓毒症或感染性休克，需立即启动脓毒症集束化治疗。&quot;},&quot;children&quot;:[]}]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difvue58neo0&quot;,&quot;created&quot;:1778506237344,&quot;text&quot;:&quot;糖尿病酮症酸中毒&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwzrditbc0&quot;,&quot;created&quot;:1778509479074,&quot;text&quot;:&quot;诊断依据&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwzw8ls480&quot;,&quot;created&quot;:1778509489660,&quot;text&quot;:&quot;严重感染为诱因。患者有“未控制高血糖”史，此次随机血糖25.8 mmol/L，血气分析提示代谢性酸中毒(pH 7.28)，完全符合DKA诊断标准。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difx07ttt5s0&quot;,&quot;created&quot;:1778509514888,&quot;text&quot;:&quot;临床意义&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difx0mdmr1s0&quot;,&quot;created&quot;:1778509546561,&quot;text&quot;:&quot;DKA与脓毒症叠加将极大增加死亡率，需立即邀请内分泌科会诊抢救。&quot;},&quot;children&quot;:[]}]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difvuqy82lk0&quot;,&quot;created&quot;:1778506265218,&quot;text&quot;:&quot;感染向下侵犯心包&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difwvqax4dk0&quot;,&quot;created&quot;:1778509163283,&quot;text&quot;:&quot;路径&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxepdndrc0&quot;,&quot;created&quot;:1778510650190,&quot;text&quot;:&quot;感染沿颈部深筋膜间隙向下蔓延，可引起下行性坏死性纵隔炎，并侵犯心包，导致化脓性心包炎和心脏压塞。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwvsrez3s0&quot;,&quot;created&quot;:1778509168634,&quot;text&quot;:&quot;警示症状&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxf28gq5s0&quot;,&quot;created&quot;:1778510678175,&quot;text&quot;:&quot;需密切观察有无胸闷、胸痛、呼吸困难加重。&quot;},&quot;children&quot;:[]}]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difwwkl6fxc0&quot;,&quot;created&quot;:1778509229207,&quot;text&quot;:&quot;产气菌感染&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxcf75eo00&quot;,&quot;created&quot;:1778510471301,&quot;text&quot;:&quot;证据&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxclpj6c80&quot;,&quot;created&quot;:1778510485473,&quot;text&quot;:&quot;患者CT报告明确提到“部分区域见散在气体影”，这是产气菌感染的直接影像学证据。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difxcx8v4y80&quot;,&quot;created&quot;:1778510510587,&quot;text&quot;:&quot;特点&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxea8wjtc0&quot;,&quot;created&quot;:1778510617252,&quot;text&quot;:&quot;进展极其迅速，可在数小时内导致广泛组织坏死，死亡率高。&quot;},&quot;children&quot;:[]}]},{&quot;data&quot;:{&quot;id&quot;:&quot;difxe6be6bc0&quot;,&quot;created&quot;:1778510608695,&quot;text&quot;:&quot;处理&quot;},&quot;children&quot;:[{&quot;data&quot;:{&quot;id&quot;:&quot;difxeg3g85k0&quot;,&quot;created&quot;:1778510629983,&quot;text&quot;:&quot;需立即进行紧急、广泛的外科清创。&quot;},&quot;children&quot;:[]}]}]}]}]" style="text;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="360" y="410" width="560" height="660" as="geometry" />
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-1" value="病因治疗的方式和时机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="90" y="482.5" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-2" value="&lt;span data-path-to-node=&quot;2,1&quot;&gt;急性期干预禁忌与并发症&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;2,2&quot;&gt;&lt;span class=&quot;citation-725 citation-end-725&quot;&gt;&lt;sup data-turn-source-index=&quot;2&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="35" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-3" value="脓毒症失代偿风险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="-30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-4" value="气道梗阻与窒息风险" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="10" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-5" value="高血糖致免疫受损" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="50" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-6" value="海绵窦血栓性静脉炎(CST)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="90" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-7" value="继发下颌骨骨髓炎" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="130" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="425" y="-30" width="20" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-9" value="择期干预指征" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="275" y="470" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-10" value="&lt;meta charset=&quot;utf-8&quot;&gt;体征 " style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="450" y="250" width="65" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="425" y="250" width="20" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-15" value="&lt;span data-path-to-node=&quot;6,0,1,0,0,1&quot;&gt;颈面部原发感染区的红、肿、热、痛完全消退，创口或引流区肉芽组织健康，且无化脓性渗出&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="533.95" y="210" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-16" value="&lt;span data-path-to-node=&quot;6,0,1,1,0,1&quot;&gt;张口度恢复至正常范围 (&amp;gt;3cm)&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,0,1,1,0,2&quot;&gt;&lt;span class=&quot;citation-695 citation-end-695&quot;&gt;&lt;sup data-turn-source-index=&quot;32&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,0,1,1,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="533.95" y="250" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-17" value="&lt;span data-path-to-node=&quot;6,0,1,2,0,1&quot;&gt;完善气道评估&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="533.95" y="290" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-18" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="515" y="210" width="18.95" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-19" value="实验室检查" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="505" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-20" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="520" y="420" width="19.48" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-23" value="炎性指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539.48" y="420" width="80.52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-24" value="&lt;span data-path-to-node=&quot;6,1,1,0,2,0,0,1&quot;&gt;WBC 4.0-10.0×10^9/L&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="340" width="146.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-25" value="NEUT%&amp;nbsp; 40%-75%&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="380" width="146.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-26" value="无核左移&amp;nbsp;&amp;nbsp;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,1&quot;&gt;外周血中未成熟的杆状核中性粒细胞比例&amp;lt;5%&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,2&quot;&gt;&lt;span class=&quot;citation-689 citation-end-689&quot;&gt;&lt;sup data-turn-source-index=&quot;38&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,2,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="420" width="326.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-27" value="PCT &amp;lt;0.05 ng/mL" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="460" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-28" value="&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,1&quot;&gt;CRP &amp;lt;5 mg/L&amp;nbsp;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,2&quot;&gt;&lt;span class=&quot;citation-686 citation-end-686&quot;&gt;&lt;sup data-turn-source-index=&quot;41&quot; class=&quot;superscript&quot;&gt;&lt;/sup&gt;&lt;/span&gt;&lt;/span&gt;&lt;span data-path-to-node=&quot;6,1,1,0,2,4,0,3&quot;&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="500" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-29" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="624.47" y="340" width="19.48" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-30" value="血糖指标" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539.48" y="590" width="80.52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-31" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="624.47" y="550" width="19.48" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-32" value="FBG &amp;lt;8.88 mmol/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="550" width="146.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-33" value="餐后2小时或随机血糖 7.8-10.0 mmol/L" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="590" width="216.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-34" value="HbA1c &amp;lt;8.0%" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="643.95" y="630" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-35" value="影像学检查" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="440" y="720" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-36" value="&lt;span data-path-to-node=&quot;6,2,1,0,0,1&quot;&gt;病灶周边间隙的异常气穴与液性暗区已完全吸收&amp;nbsp;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539.74" y="690" width="280.52" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-37" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="520.26" y="690" width="19.48" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-38" value="CT 骨窗需显示受累骨质边缘清晰，并出现明显的反应性骨硬化带" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="539.74" y="760" width="360.26" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-39" value="外科干预与围术期管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="290" y="925" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="440" y="850" width="20" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-41" value="术前管理" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="850" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-42" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="540" y="830" width="19.48" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-43" value="气道与麻醉" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="559.48" y="830" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-44" value="抗菌屏障" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="559.48" y="870" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-45" value="术中微创清创" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="459.48" y="935" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-46" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="539.48" y="915" width="18.09" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-48" value="绝对禁凿" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="557.57" y="915" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-49" value="彻底刮治" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="557.57" y="960" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-50" value="术后引流监测" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="459.48" y="1032.5" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-51" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="541.39" y="1010" width="18.09" height="75" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-52" value="非严密缝合" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="559.48" y="1010" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-53" value="&lt;meta charset=&quot;utf-8&quot;&gt;常规送检" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="557.57" y="1055" width="106.05" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u2FYwj3SUiFxAKlZnKJ0-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="240" y="35" width="20" height="955" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
