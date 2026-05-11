@@ -14,10 +14,10 @@
           <mxGeometry x="425" y="-30" width="20" height="190" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-9" value="脓毒症&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="472.5" width="150" height="60" as="geometry" />
+          <mxGeometry x="275" y="495" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
-          <mxGeometry x="430" y="480" width="20" height="112.5" as="geometry" />
+          <mxGeometry x="430" y="480" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-39" value="感染向下侵犯心包" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="280" y="930" width="150" height="60" as="geometry" />
