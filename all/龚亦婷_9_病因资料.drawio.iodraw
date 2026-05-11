@@ -215,43 +215,43 @@
           <mxGeometry x="430" y="987.5" width="20" height="90" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-54" value="机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="212.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="1170" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-55" value="高危" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="297.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="1255" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-56" value="处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="455" y="382.5" width="90" height="40" as="geometry" />
+          <mxGeometry x="430" y="1340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-57" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="545" y="232" as="sourcePoint" />
-            <mxPoint x="605" y="232.5" as="targetPoint" />
+            <mxPoint x="520" y="1189.5" as="sourcePoint" />
+            <mxPoint x="580" y="1190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-58" value="&lt;div&gt;间隙感染致组织肿胀，压迫气道致狭窄/梗阻。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="202.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-59" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="545" y="317" as="sourcePoint" />
-            <mxPoint x="605" y="317.5" as="targetPoint" />
+            <mxPoint x="520" y="1274.5" as="sourcePoint" />
+            <mxPoint x="580" y="1275" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-60" value="&lt;div&gt;&lt;div&gt;CT示气道受压+张口受限，属极高危。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="287.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1245" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="545" y="402" as="sourcePoint" />
-            <mxPoint x="605" y="402.25" as="targetPoint" />
+            <mxPoint x="520" y="1359.5" as="sourcePoint" />
+            <mxPoint x="580" y="1359.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-62" value="立即备气管插管/切开。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="615" y="372.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="590" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-63" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="435" y="222.5" width="20" height="190" as="geometry" />
+          <mxGeometry x="410" y="1180" width="20" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
