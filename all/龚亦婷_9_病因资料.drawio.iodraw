@@ -131,7 +131,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-32" value="表明患者全身炎症反应强烈，随时可能进展为严重脓毒症或感染性休克，需立即启动脓毒症集束化治疗。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="532.5" width="120" height="60" as="geometry" />
+          <mxGeometry x="605" y="532.5" width="175" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
