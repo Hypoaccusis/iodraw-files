@@ -154,7 +154,7 @@
             <mxPoint x="590" y="734.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-38" value="表明患者全身炎症反应强烈，随时可能进展为严重脓毒症或感染性休克，需立即启动脓毒症集束化治疗。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-38" value="DKA与脓毒症叠加将极大增加死亡率，需立即邀请内分泌科会诊抢救。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="705" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
