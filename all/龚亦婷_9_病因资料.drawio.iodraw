@@ -109,6 +109,30 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-26" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="425" y="212.5" width="20" height="190" as="geometry" />
         </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-27" value="高危" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-28" value="处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="500" y="625" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-29" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="559.5" as="sourcePoint" />
+            <mxPoint x="650" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-30" value="&lt;div&gt;&lt;div&gt;CT示气道受压+张口受限，属极高危。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="540" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="644.5" as="sourcePoint" />
+            <mxPoint x="650" y="644.75" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-32" value="立即备气管插管/切开。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="615" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
