@@ -134,28 +134,28 @@
           <mxGeometry x="605" y="532.5" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-33" value="诊断依据" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="630" width="90" height="40" as="geometry" />
+          <mxGeometry x="445" y="627.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-34" value="临床意义" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="715" width="90" height="40" as="geometry" />
+          <mxGeometry x="445" y="712.5" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-35" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="649.5" as="sourcePoint" />
-            <mxPoint x="590" y="650" as="targetPoint" />
+            <mxPoint x="535" y="647" as="sourcePoint" />
+            <mxPoint x="595" y="647.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-36" value="&lt;div&gt;严重感染为扳机。患者有“未控制高血糖”史，此次随机血糖25.8 mmol/L，血气分析提示代谢性酸中毒(pH 7.28)，完全符合DKA诊断标准。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="620" width="210" height="60" as="geometry" />
+          <mxGeometry x="605" y="617.5" width="210" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="530" y="734.5" as="sourcePoint" />
-            <mxPoint x="590" y="734.75" as="targetPoint" />
+            <mxPoint x="535" y="732" as="sourcePoint" />
+            <mxPoint x="595" y="732.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-38" value="DKA与脓毒症叠加将极大增加死亡率，需立即邀请内分泌科会诊抢救。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="705" width="175" height="60" as="geometry" />
+          <mxGeometry x="605" y="702.5" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="420" y="645" width="20" height="90" as="geometry" />
