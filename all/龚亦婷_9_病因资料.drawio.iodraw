@@ -40,7 +40,7 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-6" value="高危" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="45" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-7" value="机制" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-7" value="处理" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="130" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
