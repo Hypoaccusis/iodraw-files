@@ -61,14 +61,17 @@
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-11" value="&lt;div&gt;&lt;div&gt;CT示气道受压+张口受限，属极高危。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="45" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="klu0zFs7DH6lCh9ZzUlI-13">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-12" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="550" y="149.5" as="sourcePoint" />
-            <mxPoint x="610" y="150" as="targetPoint" />
+            <mxPoint x="540" y="149.5" as="sourcePoint" />
+            <mxPoint x="600" y="149.75" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-13" value="立即备气管插管/切开。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="610" y="120" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.667;entryY=0.167;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="klu0zFs7DH6lCh9ZzUlI-13" target="klu0zFs7DH6lCh9ZzUlI-13">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
