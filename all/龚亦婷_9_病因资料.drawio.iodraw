@@ -20,7 +20,7 @@
           <mxGeometry x="425" y="420" width="20" height="160" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-39" value="感染向下侵犯心包" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="275" y="840" width="150" height="60" as="geometry" />
+          <mxGeometry x="285" y="930" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="u2FYwj3SUiFxAKlZnKJ0-54" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="240" y="35" width="20" height="955" as="geometry" />
@@ -32,7 +32,7 @@
           <mxGeometry x="280" y="670" width="150" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-3" value="感染向下侵犯心包" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="285" y="850" width="150" height="60" as="geometry" />
+          <mxGeometry x="280" y="810" width="150" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
