@@ -121,8 +121,8 @@
             <mxPoint x="595" y="477.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-30" value="&lt;div&gt;&lt;div&gt;CT示气道受压+张口受限，属极高危。&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="605" y="447.5" width="120" height="60" as="geometry" />
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-30" value="&lt;div&gt;患者PCT高达3.4 ng/ml，远超脓毒症诊断阈值(≥2.0 ng/ml)，结合高热、心率快等表现，脓毒症诊断明确。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="605" y="447.5" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-31" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
