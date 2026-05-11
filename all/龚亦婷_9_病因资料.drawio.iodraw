@@ -145,7 +145,7 @@
             <mxPoint x="590" y="650" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="klu0zFs7DH6lCh9ZzUlI-36" value="&lt;div&gt;患者PCT高达3.4 ng/ml，远超脓毒症诊断阈值(≥2.0 ng/ml)，结合高热、心率快等表现，脓毒症诊断明确。&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-36" value="&lt;div&gt;严重感染为扳机。患者有“未控制高血糖”史，此次随机血糖25.8 mmol/L，血气分析提示代谢性酸中毒(pH 7.28)，完全符合DKA诊断标准。&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="620" width="175" height="60" as="geometry" />
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-37" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
@@ -156,6 +156,9 @@
         </mxCell>
         <mxCell id="klu0zFs7DH6lCh9ZzUlI-38" value="表明患者全身炎症反应强烈，随时可能进展为严重脓毒症或感染性休克，需立即启动脓毒症集束化治疗。" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="705" width="175" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="klu0zFs7DH6lCh9ZzUlI-39" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="420" y="645" width="20" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
