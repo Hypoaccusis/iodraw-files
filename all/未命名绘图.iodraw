@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="sQjqbKWDp2wri9ubpVaK-1" value="非龋性牙髓感染的路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="315" width="110" height="40" as="geometry" />
+          <mxGeometry x="80" y="340" width="110" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="190" y="90" width="20" height="490" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry x="210" y="240" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-10" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="330" y="530" width="20" height="110" as="geometry" />
+          <mxGeometry x="330" y="565" width="20" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="330" y="185" width="20" height="145" as="geometry" />
