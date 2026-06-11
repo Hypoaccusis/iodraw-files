@@ -106,7 +106,7 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1380" y="90" width="20" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-58" value="&lt;div&gt;下颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-58" value="&lt;div&gt;原发位置为下颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="70" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-59" value="下颌后牙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -125,16 +125,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-63" value="&lt;div&gt;下颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="80" width="120" height="40" as="geometry" />
+          <mxGeometry x="1590" y="69" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-64" value="下颌后牙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="1590" y="239" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-65" value="&lt;div&gt;上颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="431.25" width="120" height="40" as="geometry" />
+          <mxGeometry x="1590" y="420.25" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-66" value="&lt;div&gt;上颌后牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="555" width="120" height="40" as="geometry" />
+          <mxGeometry x="1590" y="544" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
