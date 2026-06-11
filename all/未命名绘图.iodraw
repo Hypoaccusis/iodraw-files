@@ -103,16 +103,19 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-52" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="1380" y="90" width="20" height="480" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-53" value="&lt;div&gt;牙体裂纹与折裂相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-57" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="200" y="100" width="20" height="480" as="geometry" />
+        </mxCell>
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-58" value="&lt;div&gt;牙体裂纹与折裂相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="80" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-54" value="牙周来源的逆行性侵入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-59" value="牙周来源的逆行性侵入路径" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="250" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-55" value="&lt;div&gt;医源性与修复相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-60" value="&lt;div&gt;医源性与修复相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="431.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-56" value="&lt;div&gt;其他少见侵入路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-61" value="&lt;div&gt;其他少见侵入路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="555" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
