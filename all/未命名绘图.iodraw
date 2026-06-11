@@ -61,8 +61,8 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-41" value="&lt;div&gt;暴露的牙本质小管：牙周治疗（如龈下刮治/根面平整）去除牙骨质后，牙本质小管暴露，可成为牙周细菌进入牙髓的通路；亦可见于刷牙不当、漂白或外伤等情况&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="352.5" y="290" width="185" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="260" width="30" height="100" as="geometry" />
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-43" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;direction=west;" vertex="1" parent="1">
+          <mxGeometry x="610" y="60" width="30" height="300" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
