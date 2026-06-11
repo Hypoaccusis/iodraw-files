@@ -121,8 +121,20 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1520" y="90" as="sourcePoint" />
-            <mxPoint x="1570" y="40" as="targetPoint" />
+            <mxPoint x="1590" y="90" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-63" value="&lt;div&gt;下颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="80" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-64" value="下颌后牙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-65" value="&lt;div&gt;上颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="431.25" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-66" value="&lt;div&gt;上颌后牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1410" y="555" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
