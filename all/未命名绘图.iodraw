@@ -31,14 +31,14 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-11" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="330" y="185" width="20" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-12" value="下颌颏部肿胀" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-12" value="根尖孔：牙周破坏累及根尖区时，感染可经根尖孔逆行进入牙髓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="180" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-13" value="皮肤瘘管：4 mm × 6 mm，有结痂" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="225" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-14" value="31牙：牙体完整，无明显龋坏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="270" width="200" height="30" as="geometry" />
+          <mxGeometry x="350" y="350" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-15" value="&lt;div&gt;医源性与修复相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="370" width="120" height="40" as="geometry" />
