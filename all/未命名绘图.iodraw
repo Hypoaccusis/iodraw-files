@@ -41,13 +41,13 @@
           <mxGeometry x="350" y="270" width="200" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-15" value="&lt;div&gt;医源性与修复相关路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="280" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="370" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-16" value="41牙：牙体完整，牙体扭转，无明显龋坏" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="310" width="230" height="30" as="geometry" />
+          <mxGeometry x="350" y="400" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-17" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="330" y="272.5" width="20" height="55" as="geometry" />
+          <mxGeometry x="330" y="362.5" width="20" height="55" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-18" value="&lt;div&gt;其他少见侵入路径&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="565" width="120" height="40" as="geometry" />
