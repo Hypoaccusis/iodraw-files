@@ -112,10 +112,10 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-59" value="原发位置为下颌后牙" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="240" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-60" value="&lt;div&gt;上颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-60" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;原发位置为&lt;/span&gt;上颌前牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="421.25" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-61" value="&lt;div&gt;上颌后牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-61" value="&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;原发位置为&lt;/span&gt;上颌后牙&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1400" y="545" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-62" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
