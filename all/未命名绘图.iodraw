@@ -75,12 +75,12 @@
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-46" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="sQjqbKWDp2wri9ubpVaK-47">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="650" y="339.55" as="sourcePoint" />
-            <mxPoint x="730" y="340" as="targetPoint" />
+            <mxPoint x="800" y="340" as="sourcePoint" />
+            <mxPoint x="920" y="330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-47" value="根尖周脓肿形成&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="320" width="120" height="40" as="geometry" />
+          <mxGeometry x="860" y="310" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
