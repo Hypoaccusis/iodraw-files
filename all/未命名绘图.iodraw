@@ -55,8 +55,8 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-19" value="血行播散：细菌可通过血液循环到达牙髓，属于较少见的侵入方式" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="540" width="190" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-20" value="有扪痛" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="650" width="70" height="30" as="geometry" />
+        <mxCell id="sQjqbKWDp2wri9ubpVaK-20" value="邻牙根尖感染的邻近蔓延：相邻牙齿的根尖感染可通过周围组织扩散，间接影响邻近牙髓" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="650" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
