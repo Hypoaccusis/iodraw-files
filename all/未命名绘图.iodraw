@@ -79,14 +79,8 @@
         <mxCell id="sQjqbKWDp2wri9ubpVaK-27" value="41冷诊无反应" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="587.5" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="490" y="360" width="20" height="170" as="geometry" />
-        </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-36" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="455" y="560" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="sQjqbKWDp2wri9ubpVaK-37" value="存在牙髓坏死并继发根尖周感染的可能" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="475" y="555" width="210" height="50" as="geometry" />
         </mxCell>
         <mxCell id="sQjqbKWDp2wri9ubpVaK-38" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
