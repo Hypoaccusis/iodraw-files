@@ -95,39 +95,6 @@
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-13" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="350" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
-          <mxGeometry x="840" y="312.5" width="20" height="105" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="770" y="360" width="70" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-19" target="fBZ1fuwrNozQJeLCpybQ-20">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-19" value="&amp;lt;2 cm" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="300" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-20" value="诊断性活检＋刮除" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="300" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-22" target="fBZ1fuwrNozQJeLCpybQ-23">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-22" value="&lt;div&gt;2–5 cm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="350" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-23" value="活检＋部分刮除" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="350" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-25" target="fBZ1fuwrNozQJeLCpybQ-26">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-25" value="&lt;div&gt;&amp;gt;5 cm&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="860" y="400" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-26" value="&lt;div&gt;不推荐根治性/激进性完整切除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="950" y="400" width="170" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-49" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="557.56" y="63.13" width="20" height="63.75" as="geometry" />
         </mxCell>
