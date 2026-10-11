@@ -50,7 +50,7 @@
           <mxGeometry x="577.56" y="-70" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-47" value="活检＋部分刮除" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="667.56" y="-70" width="110" height="30" as="geometry" />
+          <mxGeometry x="960" y="-70" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SqaZgHoP14FstCXms8f1-49" edge="1">
           <mxGeometry relative="1" as="geometry">
