@@ -67,10 +67,7 @@
           <mxGeometry x="367.56" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-7" value="&lt;div&gt;进一步检查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367.56" y="250" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-10" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="367.56" y="300" width="120" height="30" as="geometry" />
+          <mxGeometry x="367.56" y="280" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-13" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="350" width="120" height="30" as="geometry" />
@@ -109,7 +106,7 @@
           <mxGeometry x="557.56" y="200" width="552.44" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-63" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
-          <mxGeometry x="487.56" y="260" width="70" height="10" as="geometry" />
+          <mxGeometry x="487.56" y="290" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="600" y="252.5" width="20" height="105" as="geometry" />
