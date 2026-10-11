@@ -38,10 +38,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-43" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;23&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;岁年轻女性，主诉右下前牙牙龈红肿疼痛已持续近&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;8&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;个月，且在牙周基础治疗、牙周翻瓣手术及右下尖牙、第一前磨牙根管治疗后仍反复发作&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="577.56" y="-120" width="272.44" height="30" as="geometry" />
+          <mxGeometry x="577.56" y="-120" width="292.44" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-44" value="诊断性活检＋刮除" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="870" y="-120" width="110" height="30" as="geometry" />
+          <mxGeometry x="960" y="-120" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SqaZgHoP14FstCXms8f1-46" target="SqaZgHoP14FstCXms8f1-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
