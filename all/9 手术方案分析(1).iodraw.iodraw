@@ -10,7 +10,7 @@
         <mxCell id="SqaZgHoP14FstCXms8f1-3" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="220" y="30" width="20" height="260" as="geometry" />
         </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-4" value="分层治疗" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SqaZgHoP14FstCXms8f1-4" value="病例特点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="240" y="10" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-19" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
