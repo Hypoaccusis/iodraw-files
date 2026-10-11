@@ -66,7 +66,7 @@
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-4" value="临床初步诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-7" value="&lt;div&gt;单系统·多灶骨病变 SS-multifocal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-7" value="&lt;div&gt;进一步检查&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="250" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-10" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -106,7 +106,7 @@
           <mxGeometry x="487.55999999999995" y="360" width="70" height="10" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-62" value="&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; unicode-bidi: embed; font-size: 10px;&quot;&gt;&lt;span style=&quot;color: rgb(63, 64, 62);&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;现阶段可归纳为：右下前牙区长期不愈性牙龈肿胀伴广泛牙槽骨破坏，性质待查，倾向恶性肿瘤或其他非感染性病变如朗格汉斯细胞增多症，需与顽固性牙周&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;/&lt;/span&gt;&lt;span style=&quot;font-family: 微软雅黑; color: rgb(63, 64, 62);&quot;&gt;根尖周病变、颌骨骨髓炎、牙龈鳞癌、原发性骨淋巴瘤、骨肉瘤、转移癌等鉴别。&lt;/span&gt;&lt;/p&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="557.56" y="200" width="120" height="30" as="geometry" />
+          <mxGeometry x="557.56" y="200" width="552.44" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
