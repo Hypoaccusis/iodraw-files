@@ -63,50 +63,43 @@
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-2" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="360" y="210" width="7.56" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-4" target="fBZ1fuwrNozQJeLCpybQ-5">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="215" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-4" value="单系统·单灶骨病变 SS-unifocal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="200" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-5" value="观察、刮除/局部切除、局部糖皮质激素等" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="200" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-7" target="fBZ1fuwrNozQJeLCpybQ-8">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="265" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-7" value="&lt;div&gt;单系统·多灶骨病变 SS-multifocal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="250" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-8" value="&lt;div&gt;局部治疗有限，更多考虑系统治疗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="250" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-10" target="fBZ1fuwrNozQJeLCpybQ-11">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="315" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-10" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="300" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-11" value="&lt;div&gt;系统治疗 ± MAPK靶向治疗&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="300" width="240" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-13" target="fBZ1fuwrNozQJeLCpybQ-14">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-13">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="520" y="365" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-13" value="&lt;div&gt;多系统LCH MS-LCH&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="350" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-14" value="&lt;div&gt;个体化扩大外科处理，必要时节段性颌骨切除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="350" width="250" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-15" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="830" y="162.5" width="20" height="105" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-16" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="210" width="70" height="10" as="geometry" />
-        </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-17" value="病灶大小" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="765" y="170" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-19" target="fBZ1fuwrNozQJeLCpybQ-20">
           <mxGeometry relative="1" as="geometry" />
