@@ -52,18 +52,6 @@
         <mxCell id="SqaZgHoP14FstCXms8f1-33" value="&lt;div&gt;个体化扩大外科处理，必要时节段性颌骨切除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="520" y="80" width="250" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-35" value="外科原则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="150" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-37" value="局限性骨LCH以有限刮除/局部处理为主；不追求恶性肿瘤式“肉眼全切”" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="150" width="400" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-38" value="牙齿处理原则" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="210" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-39" value="牙龈/牙槽骨受累导致牙齿松动时，应尽量避免拔牙，因为病变控制后牙槽骨可能恢复、牙齿重新获得支持" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="210" width="400" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-40" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="830" y="-107.5" width="20" height="105" as="geometry" />
         </mxCell>
@@ -99,15 +87,6 @@
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-50" value="&lt;div&gt;不推荐根治性/激进性完整切除&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="940" y="-20" width="170" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-52" value="本病例拟行术式" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="240" y="270" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-53" value="右下牙龈病灶切除＋边缘性切除/刮除" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="390" y="270" width="260" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-54" value="术中拔除41–45及31，保留32、46" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="670" y="270" width="200" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
