@@ -19,7 +19,7 @@
         <mxCell id="SqaZgHoP14FstCXms8f1-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="SqaZgHoP14FstCXms8f1-22" target="SqaZgHoP14FstCXms8f1-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SqaZgHoP14FstCXms8f1-22" value="单系统·单灶骨病变 SS-unifocal" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="SqaZgHoP14FstCXms8f1-22" value="临床表现特点" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="367.56" y="-70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="SqaZgHoP14FstCXms8f1-23" value="观察、刮除/局部切除、局部糖皮质激素等" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
