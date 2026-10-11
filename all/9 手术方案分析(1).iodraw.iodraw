@@ -68,7 +68,7 @@
             <mxPoint x="520" y="215" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="fBZ1fuwrNozQJeLCpybQ-4" value="单系统·单灶骨病变 SS-unifocal" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fBZ1fuwrNozQJeLCpybQ-4" value="临床初步诊断" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="367.56" y="200" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fBZ1fuwrNozQJeLCpybQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fBZ1fuwrNozQJeLCpybQ-7">
